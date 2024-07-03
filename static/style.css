@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+}
